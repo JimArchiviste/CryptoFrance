@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "690336035878",
+    "firebase_url": "https://crypto-france.firebaseio.com",
+    "project_id": "crypto-france",
+    "storage_bucket": "crypto-france.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690336035878:android:a4b41f59db8f7d80",
+        "android_client_info": {
+          "package_name": "dugat.ghislain.cryptofrance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690336035878-1nq278ppqqu1i6t5ru7prbvqhjp3urn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QeJd6BNt7cY5bXjG5toV1fUUsBkxnyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
